@@ -1,0 +1,22 @@
+# Python derleme dosyaları
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Sanal ortamlar
+.venv/
+venv/
+ENV/
+
+# Ortam değişkenleri
+env/
+.env
+.env.*
+
+# IDE dosyaları
+.idea/
+.vscode/
+
+# Çeşitli
+.DS_Store
+*.log 
